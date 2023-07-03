@@ -1,0 +1,13 @@
+#compName{
+    top:0;
+    text-align: center;
+    padding-top: 2vh;
+
+    font-size: 2vw; /* Adjust the value as needed */
+  font-weight: bold;
+  color: #333; /* Adjust the color as needed */
+  text-transform: uppercase; /* Adjust the text transformation as needed */
+  margin-top: 1rem; /* Adjust the margin as needed */
+  margin: 1rem; /* Adjust the margin as needed */
+  line-height: 1.2; /* Adjust the line height as needed */
+  letter-spacing: 0.1rem; /* Adjust the letter spacing as needed */}
